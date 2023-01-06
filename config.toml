@@ -43,7 +43,7 @@ googleAnalytics = ""
 	math = true
 
 	# Optional 80x80 avatar image.
-	avatar = "img/ampoule.jpg"
+	avatar ="https://mail.google.com/mail/u/0?ui=2&ik=fc49722278&attid=0&permmsgid=msg-f:1754229013499769567&th=185845fe545672df&view=att&disp=safe"
 
 	# Optional favicons for website
 	#favicon = true
