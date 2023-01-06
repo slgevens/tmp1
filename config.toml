@@ -146,7 +146,7 @@ weight = 3
 #name = "Annonces"
 #url = "https://github.com/slgevens/tmp1/blob/main/static/img/12.jpg" 
 #weight = 3
-#
+
 # Navigation
 #name = "Profil"
 #url = "/about"
@@ -156,7 +156,7 @@ weight = 3
 #name = "Profil"
 #url = "https://github.com/slgevens/tmp1/blob/main/static/img/Profil"
 #weight = 4
-#
+
 # Navigation
 #name = "Idée/Concéption"
 #url = "/about"
@@ -166,7 +166,7 @@ weight = 3
 #name = "Idée/Concéption"
 #url = ""https://github.com/slgevens/tmp1/blob/main/static/img/ampoule.jpg""
 #weight = 5
-#
+
 #[[menu.main]]
 #name = "Tags"
 #url = "/tags"
