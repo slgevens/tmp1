@@ -147,6 +147,11 @@ weight = 3
 #url = "https://github.com/slgevens/tmp1/blob/main/static/img/12.jpg" 
 #weight = 3
 #
+#[[menu.main]]
+#name = "All Posts"
+#url = "/post"
+#weight = 4
+#
 # Navigation
 #name = "Profil"
 #url = "/about"
