@@ -149,7 +149,7 @@ weight = 3
 #
 # Navigation
 #name = "Profil"
-#url = "/about"
+#url = "https://github.com/slgevens/tmp1/blob/main/static/img/Profil"
 #weight = 4
 #
 # Navigation
