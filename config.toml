@@ -120,6 +120,12 @@ name = "Accueil"
 url = "/"
 weight = 1
 
+# Navigation
+[[menu.main]]
+name = "A propos"
+url = "/"
+weight = 2
+
 #[[menu.main]]
 #name = "All Posts"
 #url = "/post"
