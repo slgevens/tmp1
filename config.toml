@@ -37,7 +37,7 @@ googleAnalytics = ""
 	pagetitle = "All about static site generation"
 
 	# Add a subtitle to your website
-	subtitle = "CAJA"
+	subtitle = "Votre reussite, notre fierté"
 
 	# Add math typesetting with KaTeX (Global with this Param)
 	math = true
