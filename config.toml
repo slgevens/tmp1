@@ -126,6 +126,12 @@ name = "A propos"
 url = "/"
 weight = 2
 
+# Navigation
+[[menu.main]]
+name = "Se connecter"
+url = "/"
+weight = 3
+
 #[[menu.main]]
 #name = "All Posts"
 #url = "/post"
@@ -144,12 +150,12 @@ weight = 2
 # Navigation
 #name = "Profil"
 #url = "/about"
-#weight = 3
+#weight = 4
 #
 # Navigation
 #name = "Idée/Concéption"
 #url = ""https://github.com/slgevens/tmp1/blob/main/static/img/ampoule.jpg""
-#weight = 3
+#weight = 5
 #
 #[[menu.main]]
 #name = "Tags"
