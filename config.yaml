@@ -27,7 +27,7 @@ params:
   description: "Delize."
   pagetitle: "Delize"
   subtitle: "Livraison de repas à domicile"
-  avatar: "https://gravatar.com/avatar/1752ca4c9f6691536edeeaca2395aa18?s=400&d=robohash&r=x"
+  avatar: "https://gravatar.com/avatar/6210919b1ca01703a5ceeb47ebb95eb4?s=400&d=robohash&r=x"
   mainSections:
     - "post"
   readingTime: false
