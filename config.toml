@@ -2,19 +2,15 @@ BaseURL = "https://main.dea6k9kjnagyq.amplifyapp.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 author = "Hugo Authors"
-title = "CAJA"
+title = "Delize"
 theme = "hugo-vitae"
 paginate = 5
-enableRobotsTXT = true
-
+enableRobotsTXT = false
 copyright = "© Copyright notice | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
-
 pygmentsstyle = "colorful"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
 googleAnalytics = ""
-
 [taxonomies]
 	tag = "tags"
 	category = "categories"
@@ -22,178 +18,87 @@ googleAnalytics = ""
 
 [params]
 	# Enable dark mode as default
-	#darkmode = true
-
+	darkmode = false
 	# Use homepage.md instead of a list of posts
 	homepage = false
-
 	# Add meta keywords in head part (Site Keywords or Tags of Page)
 	keywords = ["hugo","vitae","theme","static"]
-
 	# Add meta description in head part
-	description = "Vitae is a blog theme for Hugo that focuses on your content."
-
+	description = "Delize."
 	# Add pagetitle to homepage <title> tag
-	pagetitle = "All about static site generation"
-
+	pagetitle = "Delize"
 	# Add a subtitle to your website
-	subtitle = "Votre reussite, notre fierté"
-
+	subtitle = "Livraison de repas à domicile"
 	# Add math typesetting with KaTeX (Global with this Param)
-	math = true
-
+	#math = true
 	# Optional 80x80 avatar image.
-	avatar ="https://mail.google.com/mail/u/0?ui=2&ik=fc49722278&attid=0&permmsgid=msg-f:1754229013499769567&th=185845fe545672df&view=att&disp=safe"
-
+	avatar = "https://gravatar.com/avatar/1752ca4c9f6691536edeeaca2395aa18?s=400&d=robohash&r=x"
 	# Optional favicons for website
 	#favicon = true
-
 	# Add list of sections that should show up on the homepage
 	mainSections = ["post"]
-
 	# Add list of Sections/Types that should no be considered by RSS
 	#nofeedSections = ["post"]
-
 	# Deactivate Taxonomies for specific page types
 	#disableTaxoTypes = [""]
-
 	# Custom CSS applied to default styles. (Path could be "static/css/")
 	#customcss = "css/custom.css"
-
 	# Show reading time on a post
 	readingTime = false
-
 	# Show word count on a post
 	wordCount = false
-
 	# Show author on a post (groups with readingTime and wordCount)
 	hideAuthor = true
-
 # Custom JavaScript
 [params.customjs]
 # enable Javascript by setting to true
 enabled = false
-
 # add a filepath (could be "static/js/")
 #src = "js/main.js"
-
 # specifies which referrer information to send when fetching the script
 #referrerpolicy = "no-referrer"
-
 # specifies that the script should not be executed in browsers supporting ES2015 modules
 #nomodule = false
-
 # Allows a browser to check for integrity to ensure the code hasn't been manipulated
 #integrity= ""
-
 # execute the script when page has finished parsing (external only)
 #defer = true
-
 # sets the mode of the request to an http cors request
 #crossorigin=true
-
 # executes the script asynchronously (external only)
 #async = true
-
 # Comments
 [params.comments]
 # Enable Comments with "true"
 enabled = false
-
 # Comment provider:
 #   disqus (https://disqus.com)
 #   commento (https://commento.io)
 #engine = "disqus"
-
 # Content types to disable comments on.
 #disableOnTypes = ["page"]
-
 [params.comments.disqus]
 #shortname = "" # Paste the shortname from your Disqus dashboard.
-
 [params.comments.commento]
 #host = "" # Paste the domain of you commento.io system
 
-# Navigation
+## Navigation
 [[menu.main]]
 name = "Accueil"
 url = "/"
 weight = 1
 
-# Navigation
 [[menu.main]]
-name = "A propos"
-url = "/"
+name = "Nos services"
+url = "/nos-services"
 weight = 2
 
-# Navigation
 [[menu.main]]
 name = "Se connecter"
-url = "/"
+url = "/se-connecter"
 weight = 3
 
-#[[menu.main]]
-#name = "All Posts"
-#url = "/post"
-#weight = 2
-#
-# Navigation
-#name = "Annonces"
-#url = "/about"
-#weight = 3
-#
-# Navigation
-#name = "Annonces"
-#url = "https://github.com/slgevens/tmp1/blob/main/static/img/12.jpg" 
-#weight = 3
-
-#[[menu.main]]
-#name = "All Posts"
-#url = "/post"
-#weight = 3
-#
-# Navigation
-#name = "Profil"
-#url = "/about"
-#weight = 3
-#
-# Navigation
-#name = "Profil"
-#url = "https://github.com/slgevens/tmp1/blob/main/content/LOGO.png"
-#weight = 3
-#
-# Navigation
-#name = "Idée/Concéption"
-#url = "/about"
-#weight = 5
-#
-# Navigation
-#name = "Idée/Concéption"
-#url = ""https://github.com/slgevens/tmp1/blob/main/static/img/ampoule.jpg""
-#weight = 10
-#
-#[[menu.main]]
-#name = "Tags"
-#url = "/tags"
-#weight = 4
-#
-#[[menu.main]]
-#name = "Categories"
-#url = "/categories"
-#weight = 5
-#
-## Social Menu
-#[[params.social]]
-#name = "Github"
-#icon = "fab fa-github"
-#url = "https://github.com/dataCobra/hugo-vitae"
-#
-##[[params.social]]
-##name = "Email"
-##icon = "fas fa-envelope"
-##cmd = "mailto:example@example.com"
-#
-#[[params.social]]
-#name = "RSS"
-#icon = "fas fa-rss"
-#url = "index.xml"
+[[menu.main]]
+name = "À propos"
+url = "/a-propos"
+weight = 4
