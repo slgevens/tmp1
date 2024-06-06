@@ -1,0 +1,54 @@
+baseURL: "main.d2dqd1pf3c5d3w.amplifyapp.com"
+languageCode: "fr"
+defaultContentLanguage: "fr"
+author: "Delie"
+title: "Delize"
+theme: "hugo-vitae"
+paginate: 2
+enableRobotsTXT: false
+copyright: "© Copyright notice | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
+pygmentsstyle: "colorful"
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  series: "series"
+
+params:
+  darkmode: false
+  homepage: true
+  keywords:
+    - "hugo"
+    - "vitae"
+    - "theme"
+    - "static"
+  description: "Delize."
+  pagetitle: "Delize"
+  subtitle: "Livraison de repas à domicile"
+  avatar: "https://gravatar.com/avatar/1752ca4c9f6691536edeeaca2395aa18?s=400&d=robohash&r=x"
+  mainSections:
+    - "post"
+  readingTime: false
+  wordCount: false
+  hideAuthor: true
+  customjs:
+    enabled: false
+  comments:
+    enabled: false
+
+menu:
+  main:
+    - name: "Accueil"
+      url: "/"
+      weight: 1
+    - name: "Nos services"
+      url: "/nos-services"
+      weight: 2
+    - name: "Se connecter"
+      url: "/se-connecter"
+      weight: 3
+    - name: "À propos"
+      url: "/a-propos"
+      weight: 4

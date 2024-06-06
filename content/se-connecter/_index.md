@@ -1,20 +1,7 @@
-+++
-author = "Delize"
-#authorlink = "https://gohugo.io"
-title = "Delize | Page en cours de construction"
-#date = "2019-03-11"
-#description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-nofeed = true
-math = true
-notaxonomy = false
-commentable = true
-hidden = false
-norobots = true
-nodate = false
-#images = ["/img/12.jpg"]
-imagetext = "Annonces"
-hidemeta = false
-+++
+---
+author: "Delize"
+title: "Delize | Page en cours de construction"
+---
 
 Merci de votre visite sur notre site Delize !
 
@@ -29,3 +16,4 @@ Pendant ce temps, voici ce que vous pouvez faire :
 Nous nous excusons pour la gêne occasionnée et vous remercions de votre compréhension. Restez connectés pour plus de mises à jour !
 
 À bientôt sur Delize !
+

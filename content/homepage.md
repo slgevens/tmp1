@@ -1,17 +1,8 @@
-+++
-author = "Delize"
-title = "Delize"
-nofeed = true
-math = true
-notaxonomy = false
-commentable = true
-hidden = false
-norobots = true
-nodate = false
-#images = ["/img/delize-logo.png"]
-imagetext = "Accueil"
-hidemeta = false
-+++
+---
+author: "Delize"
+title: "Delize"
+hidden: false
+---
 
 ![logo delize](/img/delize-logo.png)
 
