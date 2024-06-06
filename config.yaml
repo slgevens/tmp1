@@ -1,8 +1,8 @@
 #baseURL: "https://main.d2dqd1pf3c5d3w.amplifyapp.com"
 languageCode: "fr"
 defaultContentLanguage: "fr"
-author: "Delie"
-title: "Delize"
+author: "Delize"
+title: "Delize Catering"
 theme: "hugo-vitae"
 paginate: 2
 enableRobotsTXT: false
@@ -26,8 +26,8 @@ params:
     - "static"
   description: "Delize"
   pagetitle: "Delize"
-  subtitle: "Livraison de repas à domicile"
-  avatar: "https://gravatar.com/avatar/1752ca4c9f6691536edeeaca2395aa18?s=400&d=robohash&r=x"
+  subtitle: "Delize Catering"
+  avatar: "https://robohash.org/ac33b261e82291c5c574c0d3ef5c6aad?set=set4&bgset=&size=400x400"
   mainSections:
     - "post"
   readingTime: false
