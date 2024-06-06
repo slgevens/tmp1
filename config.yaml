@@ -24,7 +24,7 @@ params:
     - "vitae"
     - "theme"
     - "static"
-  description: "Delize."
+  description: "Delize"
   pagetitle: "Delize"
   subtitle: "Livraison de repas à domicile"
   avatar: "https://gravatar.com/avatar/6210919b1ca01703a5ceeb47ebb95eb4?s=400&d=robohash&r=x"
