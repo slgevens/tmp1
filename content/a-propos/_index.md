@@ -6,7 +6,7 @@ title: "Delize | À propos"
 
 ## Notre histoire
 
-Delize est né de la passion pour la cuisine et l’envie de rendre la gastronomie accessible à tous. Fondé en 2024, Delize a rapidement évolué pour devenir un acteur incontournable de la livraison de repas, en combinant qualité, rapidité et service exceptionnel.
+Delize est né de la passion pour la cuisine et l’envie de permettre aux etudiants de ce nourrir correctement. Fondé en 2024 par Mr Mathis et Mme Castor, deux etudiants qui on pensé et reflechis sur la problématique de manger sainement en tant qu'étudiant. Delize a rapidement évolué pour devenir un acteur incontournable de la livraison de repas, en combinant qualité, rapidité et service exceptionnel.
 
 ## Notre mission
 
