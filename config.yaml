@@ -26,8 +26,8 @@ params:
     - "static"
   description: "Delize"
   pagetitle: "Delize"
-  subtitle: "Delize Catering"
-  avatar: "https://robohash.org/ac33b261e82291c5c574c0d3ef5c6aad?set=set4&bgset=&size=400x400"
+  subtitle: "Delize"
+  #avatar:
   mainSections:
     - "post"
   readingTime: false
