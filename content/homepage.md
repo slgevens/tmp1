@@ -14,15 +14,15 @@ Chez Delize, nous comprenons l’importance d’un repas délicieux et rapide. Q
 
 Nos spécialités :
 
-    - Burgers Gourmets : Des recettes uniques avec des ingrédients frais et locaux.
-    - Pizzas Authentiques : Pâte faite maison et garnitures généreuses.
-    - Salades Fraîches : Composées de légumes croquants et de vinaigrettes maison.
-    - Desserts Gourmands : Pour finir sur une note sucrée.
+    - Menu poulet : Base de repas au poulet et accompagnement du jour. 
+    - Menu poisson : Base de repas au poisson et accompagnement du jour.
+    - Menu vegetarien : Base de repas aux legumes et accompagnement du jour.
+    - Entrée : Legumes de crudités. 
 
 Pourquoi nous choisir ?
 
     - Livraison Ultra-Rapide : Commandez et recevez en moins de 30 minutes.
-    - Qualité Garantie : Des plats préparés avec soin par nos chefs experts.
+    - Qualité Garantie : Des plats préparés avec soin par nos cuisiniers.
     - Prix Abordables : Dégustez des repas savoureux sans vous ruiner.
 
 Commandez Maintenant !
